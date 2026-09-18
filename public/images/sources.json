@@ -1,0 +1,36 @@
+{
+  "generated": "2026-07-26T17:35:00.000Z",
+  "site": "toulonshoreexcursions.com",
+  "files": [
+    "hero.jpg",
+    "hero-home.jpg",
+    "og-default.jpg",
+    "cruise-port.jpg",
+    "harbour.jpg",
+    "coastal.jpg",
+    "coast.jpg",
+    "mont-faron.jpg",
+    "photography.jpg"
+  ],
+  "sources": [
+    {
+      "files": [
+        "hero.jpg",
+        "hero-home.jpg",
+        "og-default.jpg",
+        "cruise-port.jpg",
+        "harbour.jpg",
+        "coastal.jpg",
+        "coast.jpg",
+        "mont-faron.jpg",
+        "photography.jpg"
+      ],
+      "title": "Petite rade de Toulon (vue du Mont Faron)",
+      "author": "Pierre Sénard",
+      "license": "CC BY-SA 3.0 / GFDL",
+      "url": "https://commons.wikimedia.org/wiki/File:Petite_rade_de_Toulon_(vue_du_Mont_Faron).jpg",
+      "notes": "Toulon roadstead and city from Mont Faron — used for hero and related coastal/harbour slots."
+    }
+  ],
+  "note": "Remaining subject images may still be colour placeholders pending licensed photography."
+}

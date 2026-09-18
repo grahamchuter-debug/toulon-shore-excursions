@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-09-18T07:43:29.225Z",
+  "wave": "wave-1d",
+  "port": "toulon",
+  "destSlug": "toulon",
+  "displayName": "Toulon",
+  "counts": {
+    "2026": 34,
+    "2027": 101,
+    "2028_discovery": 23,
+    "2028_published": 0,
+    "public_total": 135,
+    "h1_2026": 0
+  },
+  "partial2026": true,
+  "filter2028": {
+    "decision": "HOLD",
+    "reason": "validated 6 < MIN_PUBLISH_ROWS 15 — HOLD; restricted rows NOT reintroduced",
+    "validatedCount": 6,
+    "tier2PrincessKeys": 0
+  },
+  "timeCompleteness": {
+    "2026": {
+      "total": 34,
+      "arrival": 32,
+      "departure": 31,
+      "both": 31,
+      "neither": 2,
+      "pctBoth": 91.2
+    },
+    "2027": {
+      "total": 101,
+      "arrival": 91,
+      "departure": 91,
+      "both": 91,
+      "neither": 10,
+      "pctBoth": 90.1
+    },
+    "2028": {
+      "total": 0,
+      "arrival": 0,
+      "departure": 0,
+      "both": 0,
+      "neither": 0,
+      "pctBoth": 0
+    }
+  },
+  "contaminationPurged": [
+    "src/data/imported-schedules/savona.json"
+  ],
+  "wireSchedulesTs": {
+    "wired": true,
+    "reason": "import wired"
+  }
+}

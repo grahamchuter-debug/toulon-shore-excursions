@@ -1,0 +1,4 @@
+# Workers Static Assets: no host redirects here.
+# Attach apex custom domain only on this Worker.
+# www → apex via Cloudflare Redirect Rules for:
+#   www.toulonshoreexcursions.com → https://toulonshoreexcursions.com

@@ -1,0 +1,10 @@
+{
+  "port": "toulon",
+  "year": 2028,
+  "wave": "wave-1d",
+  "filterDecision": "HOLD",
+  "filterReason": "validated 6 < MIN_PUBLISH_ROWS 15 — HOLD; restricted rows NOT reintroduced",
+  "validatedCount": 6,
+  "tier2KeysApplied": [],
+  "total": 23
+}

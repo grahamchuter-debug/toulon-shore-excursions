@@ -1,0 +1,1212 @@
+[
+  {
+    "date": "2026-08-03",
+    "ship": "Costa Pacifica",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "07:30",
+    "departure": "15:30",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2026-08-03",
+    "ship": "Silver Ray",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:30",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h 30m"
+  },
+  {
+    "date": "2026-08-04",
+    "ship": "Brilliance Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2026-08-05",
+    "ship": "Marella Explorer",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "09:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2026-08-10",
+    "ship": "Costa Pacifica",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "07:30",
+    "departure": "15:30",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2026-08-11",
+    "ship": "Azamara Onward",
+    "cruiseLine": "Azamara Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2026-08-14",
+    "ship": "Silver Ray",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2026-08-17",
+    "ship": "Costa Pacifica",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "07:30",
+    "departure": "15:30",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2026-08-23",
+    "ship": "Crystal Serenity",
+    "cruiseLine": "Crystal Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2026-08-24",
+    "ship": "Costa Pacifica",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "07:30",
+    "departure": "15:30",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2026-08-26",
+    "ship": "Marella Explorer",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "09:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2026-08-26",
+    "ship": "Seven Seas Navigator",
+    "cruiseLine": "Regent Seven Seas Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2026-08-30",
+    "ship": "Marella Discovery 2",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "09:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2026-08-31",
+    "ship": "Costa Pacifica",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "07:30",
+    "departure": "15:30",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2026-08-31",
+    "ship": "Silver Ray",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:30",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h 30m"
+  },
+  {
+    "date": "2026-09-07",
+    "ship": "Costa Pacifica",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "07:30",
+    "departure": "15:30",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2026-09-09",
+    "ship": "Marella Explorer",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "09:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2026-09-10",
+    "ship": "Marella Discovery 2",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "09:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2026-09-14",
+    "ship": "Costa Pacifica",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "07:30",
+    "departure": "15:30",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2026-09-15",
+    "ship": "Brilliance Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2026-09-21",
+    "ship": "Costa Pacifica",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "07:30",
+    "departure": "15:30",
+    "callType": "Port of call",
+    "timeInPort": "8h",
+    "notes": "arrival only"
+  },
+  {
+    "date": "2026-09-28",
+    "ship": "Costa Pacifica",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "07:30",
+    "departure": "15:30",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2026-09-29",
+    "ship": "Bolette",
+    "cruiseLine": "Fred Olsen Cruise Lines",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2026-09-30",
+    "ship": "Seven Seas Voyager",
+    "cruiseLine": "Regent Seven Seas Cruises",
+    "arrival": "08:30",
+    "departure": "",
+    "callType": "Port of call",
+    "notes": "overnight/next-day timing"
+  },
+  {
+    "date": "2026-10-02",
+    "ship": "Oceania Sirena",
+    "cruiseLine": "Oceania Cruises",
+    "arrival": "07:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2026-10-09",
+    "ship": "Silver Ray",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:30",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h 30m"
+  },
+  {
+    "date": "2026-10-14",
+    "ship": "Marella Explorer",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "09:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2026-10-17",
+    "ship": "Arvia",
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2026-10-18",
+    "ship": "Oceania Sirena",
+    "cruiseLine": "Oceania Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2026-10-28",
+    "ship": "Marella Explorer",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "09:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2026-10-28",
+    "ship": "Oceania Allura",
+    "cruiseLine": "Oceania Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2026-10-31",
+    "ship": "AIDAblu",
+    "cruiseLine": "AIDA",
+    "arrival": "07:00",
+    "departure": "16:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2026-11-09",
+    "ship": "Seven Seas Navigator",
+    "cruiseLine": "Regent Seven Seas Cruises",
+    "arrival": "09:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2026-11-10",
+    "ship": "Oceania Marina",
+    "cruiseLine": "Oceania Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-03-27",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h",
+    "notes": "arrival only"
+  },
+  {
+    "date": "2027-04-03",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-04-03",
+    "ship": "Marella Discovery",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "09:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-04-04",
+    "ship": "Sky Princess",
+    "cruiseLine": "Princess Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-04-09",
+    "ship": "Silver Ray",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-04-10",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-04-15",
+    "ship": "Silver Ray",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:30",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h 30m"
+  },
+  {
+    "date": "2027-04-17",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-04-17",
+    "ship": "Marella Discovery",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "09:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-04-20",
+    "ship": "Seven Seas Voyager",
+    "cruiseLine": "Regent Seven Seas Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-04-22",
+    "ship": "Wind Surf",
+    "cruiseLine": "Windstar Cruises",
+    "arrival": "08:30",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h 30m"
+  },
+  {
+    "date": "2027-04-24",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-04-25",
+    "ship": "Oceania Sirena",
+    "cruiseLine": "Oceania Cruises",
+    "arrival": "08:00",
+    "departure": "16:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-05-01",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-05-04",
+    "ship": "Silver Ray",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-05-06",
+    "ship": "Regal Princess",
+    "cruiseLine": "Princess Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-05-07",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-05-08",
+    "ship": "Mein Schiff 1",
+    "cruiseLine": "TUI Cruises",
+    "arrival": "08:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "11h"
+  },
+  {
+    "date": "2027-05-11",
+    "ship": "Explorer Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-05-13",
+    "ship": "Silver Ray",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:30",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h 30m"
+  },
+  {
+    "date": "2027-05-14",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-05-15",
+    "ship": "Arvia",
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-05-15",
+    "ship": "Marella Voyager",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "08:30",
+    "departure": "16:30",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-05-18",
+    "ship": "Resilient Lady",
+    "cruiseLine": "Virgin Voyages",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-05-22",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-05-23",
+    "ship": "Norwegian Prima",
+    "cruiseLine": "Norwegian Cruise Line",
+    "arrival": "09:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-05-27",
+    "ship": "Marella Discovery",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "09:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-05-29",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-05-29",
+    "ship": "Marella Voyager",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "08:30",
+    "departure": "16:30",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-06-01",
+    "ship": "Resilient Lady",
+    "cruiseLine": "Virgin Voyages",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-06-03",
+    "ship": "Silver Ray",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-06-05",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "12:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-06-12",
+    "ship": "Arvia",
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-06-13",
+    "ship": "Borealis",
+    "cruiseLine": "Fred Olsen Cruise Lines",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-06-17",
+    "ship": "Marella Discovery",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "09:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-06-19",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "12:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "8h",
+    "notes": "arrival only"
+  },
+  {
+    "date": "2027-06-19",
+    "ship": "Seven Seas Prestige",
+    "cruiseLine": "Regent Seven Seas Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-06-20",
+    "ship": "Oceania Sirena",
+    "cruiseLine": "Oceania Cruises",
+    "arrival": "08:00",
+    "departure": "16:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-06-22",
+    "ship": "Explorer Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-06-26",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "12:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-06-26",
+    "ship": "Marella Voyager",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "08:30",
+    "departure": "16:30",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-06-28",
+    "ship": "Arvia",
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-06-29",
+    "ship": "Resilient Lady",
+    "cruiseLine": "Virgin Voyages",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-06-29",
+    "ship": "Spirit Of Adventure",
+    "cruiseLine": "Saga Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-07-03",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "12:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-07-09",
+    "ship": "Silver Ray",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-07-10",
+    "ship": "Arvia",
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-07-10",
+    "ship": "Marella Voyager",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "08:30",
+    "departure": "16:30",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-07-13",
+    "ship": "Resilient Lady",
+    "cruiseLine": "Virgin Voyages",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-07-15",
+    "ship": "Marella Discovery",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "09:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-07-17",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "12:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "8h",
+    "notes": "arrival only"
+  },
+  {
+    "date": "2027-07-24",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "12:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-07-26",
+    "ship": "Arvia",
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-07-29",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "13:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "7h",
+    "notes": "departure only"
+  },
+  {
+    "date": "2027-07-30",
+    "ship": "Sky Princess",
+    "cruiseLine": "Princess Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-07-31",
+    "ship": "Marella Voyager",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "09:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-08-03",
+    "ship": "Explorer Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-08-07",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "13:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "7h"
+  },
+  {
+    "date": "2027-08-10",
+    "ship": "Seven Seas Grandeur",
+    "cruiseLine": "Regent Seven Seas Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-08-13",
+    "ship": "Sky Princess",
+    "cruiseLine": "Princess Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-08-14",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "12:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-08-14",
+    "ship": "Marella Voyager",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "09:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-08-15",
+    "ship": "Oceania Sirena",
+    "cruiseLine": "Oceania Cruises",
+    "arrival": "08:00",
+    "departure": "16:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-08-21",
+    "ship": "Arvia",
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-08-22",
+    "ship": "Mariner Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "10:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-08-25",
+    "ship": "Aurora",
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-08-26",
+    "ship": "Marella Discovery",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "09:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-08-28",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "12:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "8h",
+    "notes": "arrival only"
+  },
+  {
+    "date": "2027-09-02",
+    "ship": "Seven Seas Prestige",
+    "cruiseLine": "Regent Seven Seas Cruises",
+    "arrival": "10:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-09-03",
+    "ship": "Sky Princess",
+    "cruiseLine": "Princess Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-09-04",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "12:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-09-11",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "12:00",
+    "departure": "20:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-09-11",
+    "ship": "Marella Voyager",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "08:30",
+    "departure": "16:30",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-09-13",
+    "ship": "Silver Spirit",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-09-14",
+    "ship": "Explorer Of The Seas",
+    "cruiseLine": "Royal Caribbean Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-09-18",
+    "ship": "Arvia",
+    "cruiseLine": "P & O Cruises",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-09-21",
+    "ship": "Resilient Lady",
+    "cruiseLine": "Virgin Voyages",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-09-22",
+    "ship": "Norwegian Viva",
+    "cruiseLine": "Norwegian Cruise Line",
+    "arrival": "11:00",
+    "departure": "19:00",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-09-23",
+    "ship": "Marella Discovery",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "09:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-09-24",
+    "ship": "Silver Ray",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-09-25",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h",
+    "notes": "arrival only"
+  },
+  {
+    "date": "2027-09-25",
+    "ship": "Marella Voyager",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "08:30",
+    "departure": "16:30",
+    "callType": "Port of call",
+    "timeInPort": "8h"
+  },
+  {
+    "date": "2027-09-29",
+    "ship": "Oceania Insignia",
+    "cruiseLine": "Oceania Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-10-02",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-10-03",
+    "ship": "Sky Princess",
+    "cruiseLine": "Princess Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-10-05",
+    "ship": "Resilient Lady",
+    "cruiseLine": "Virgin Voyages",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-10-09",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-10-09",
+    "ship": "Seven Seas Prestige",
+    "cruiseLine": "Regent Seven Seas Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-10-10",
+    "ship": "Marella Voyager",
+    "cruiseLine": "Marella Cruises",
+    "arrival": "08:45",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h 15m"
+  },
+  {
+    "date": "2027-10-13",
+    "ship": "Balmoral",
+    "cruiseLine": "Fred Olsen Cruise Lines",
+    "arrival": "",
+    "departure": "",
+    "callType": "Port of call"
+  },
+  {
+    "date": "2027-10-14",
+    "ship": "Seven Seas Voyager",
+    "cruiseLine": "Regent Seven Seas Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "10h"
+  },
+  {
+    "date": "2027-10-16",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-10-16",
+    "ship": "Silver Ray",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:30",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h 30m"
+  },
+  {
+    "date": "2027-10-23",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-10-26",
+    "ship": "Seven Seas Splendor",
+    "cruiseLine": "Regent Seven Seas Cruises",
+    "arrival": "08:30",
+    "departure": "18:00",
+    "callType": "Port of call",
+    "timeInPort": "9h 30m"
+  },
+  {
+    "date": "2027-10-27",
+    "ship": "Silver Ray",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-10-30",
+    "ship": "Costa Fascinosa",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-11-10",
+    "ship": "Silver Nova",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-11-16",
+    "ship": "Seven Seas Voyager",
+    "cruiseLine": "Regent Seven Seas Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-11-18",
+    "ship": "Silver Nova",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "9h"
+  },
+  {
+    "date": "2027-11-23",
+    "ship": "Silver Nova",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "08:30",
+    "departure": "17:00",
+    "callType": "Port of call",
+    "timeInPort": "8h 30m"
+  }
+]
