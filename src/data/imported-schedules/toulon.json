@@ -186,8 +186,7 @@
     "arrival": "07:30",
     "departure": "15:30",
     "callType": "Port of call",
-    "timeInPort": "8h",
-    "notes": "arrival only"
+    "timeInPort": "8h"
   },
   {
     "date": "2026-09-28",
@@ -212,8 +211,7 @@
     "cruiseLine": "Regent Seven Seas Cruises",
     "arrival": "08:30",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2026-10-02",
@@ -311,8 +309,7 @@
     "arrival": "08:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "timeInPort": "9h",
-    "notes": "arrival only"
+    "timeInPort": "9h"
   },
   {
     "date": "2027-04-03",
@@ -624,8 +621,7 @@
     "arrival": "12:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "timeInPort": "8h",
-    "notes": "arrival only"
+    "timeInPort": "8h"
   },
   {
     "date": "2027-06-19",
@@ -758,8 +754,7 @@
     "arrival": "12:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "timeInPort": "8h",
-    "notes": "arrival only"
+    "timeInPort": "8h"
   },
   {
     "date": "2027-07-24",
@@ -785,8 +780,7 @@
     "arrival": "13:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "timeInPort": "7h",
-    "notes": "departure only"
+    "timeInPort": "7h"
   },
   {
     "date": "2027-07-30",
@@ -910,8 +904,7 @@
     "arrival": "12:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "timeInPort": "8h",
-    "notes": "arrival only"
+    "timeInPort": "8h"
   },
   {
     "date": "2027-09-02",
@@ -1027,8 +1020,7 @@
     "arrival": "08:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "timeInPort": "9h",
-    "notes": "arrival only"
+    "timeInPort": "9h"
   },
   {
     "date": "2027-09-25",
